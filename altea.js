@@ -631,4 +631,4 @@ client.on("guildMemberAdd", (member) => {
   canal.send(`${member.user}, bienvenido al servidor pasala bien.`);
 }); 
 });
-client.login(process.env.BOT_TOKEN);   
+client.login(process.env.MzgyOTYwNTEyMjIyMjMyNjI1.DUfmaA.pj1lLqvowqcyq5KSjJ9338y7Z94); 
